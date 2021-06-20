@@ -1,0 +1,57 @@
+.square{
+  height:410px;
+  width: 410px;
+  background-color: #ffffff;
+ -webkit-box-shadow: 0px 0px 7px 0px rgba(168,168,168,1);
+ -moz-box-shadow: 0px 0px 7px 0px rgba(168,168,168,1);
+ box-shadow: 0px 0px 7px 0px rgba(168,168,168,1);
+ border-radius: 10px;
+}
+
+body{
+  background-color: lightseagreen;
+}
+
+button{
+  width: 150px;
+  height:50px;
+  border-radius: 100px;
+  border: none;
+
+}
+
+input{
+  width:200px;
+  height:30px;
+}
+
+button:hover {
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(184,180,184,1);
+ -moz-box-shadow: 0px 0px 5px 0px rgba(184,180,184,1);
+ box-shadow: 0px 0px 5px 0px rgba(184,180,184,1);
+}
+button:active {
+  background-color: #d3d1d3;
+}
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(49, 55, 63);
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding: 12px 16px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.active {
+  background-color: rgb(72, 184, 141);
+}
