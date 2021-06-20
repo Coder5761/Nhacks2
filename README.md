@@ -17,7 +17,7 @@ In RetroGames, this is a place where some classics are here, where they are free
 **Rock paper Siccors**
 
 ## Controls:
-### _Hangman:_ Type words in Console
+### _Hangman:_ Type one letter at a time in Console
 ### _Flappy Bird:_ Press space to jump, if playing 2 player, the other person clicks on screen to spawn obstacles 
 ### _TicTacToe:_ Click on a square to make a move and click again to see what the computer has done
 ### _DodgeBall:_ move around with **a** and **d** and jump with **w**
