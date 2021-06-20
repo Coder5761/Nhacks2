@@ -7,14 +7,14 @@ In RetroGames, this is a place where some classics are here, where they are free
 ## What are all the games?
 
 ### The 8 games in this website are:
-**Hangman
-Flappy Bird
-TicTacToe
-DodgeBall
-Tetris
-Puzzle
-Guess the word
-Rock paper Siccors**
+**Hangman**
+**Flappy Bird**
+**TicTacToe**
+**DodgeBall**
+**Tetris**
+**Puzzle**
+**Guess the word**
+**Rock paper Siccors**
 
 ## Controls:
 ### _Hangman:_ Type words in Console
